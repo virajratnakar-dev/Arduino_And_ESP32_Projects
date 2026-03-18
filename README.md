@@ -19,46 +19,6 @@ Each project is organized into its own folder with detailed explanations, code, 
 
 ---
 
-## 📂 Project Structure
-
-```
-📁 robotics-projects/
-│
-├── 📁 Project-1-Name/
-│   ├── code/
-│   ├── schematics/
-│   ├── images/
-│   └── README.md
-│
-├── 📁 Project-2-Name/
-│   ├── code/
-│   ├── schematics/
-│   ├── images/
-│   └── README.md
-│
-└── README.md
-```
-
----
-
-## 🚀 Projects Included
-
-### 1. Project Name
-
-* **Description:** Short summary of the project
-* **Tech Used:** Arduino / Python / ROS / etc.
-* **Features:** Key functionalities
-
-### 2. Project Name
-
-* **Description:** Short summary
-* **Tech Used:**
-* **Features:**
-
-*(Add more projects as needed)*
-
----
-
 ## ⚙️ Getting Started
 
 Follow these steps to run any project:
@@ -83,22 +43,12 @@ Follow these steps to run any project:
 
 ## 🧰 Tools & Technologies
 
-* Arduino
-* Raspberry Pi
-* Python
-* C/C++
-* OpenCV
-* ROS (Robot Operating System)
-
----
-
-## 📸 Media
-
-Each project folder may include:
-
-* Images
-* Circuit diagrams
-* Demo videos
+* Arduino ide
+* Arduino uno
+* ESP32
+* Several sensors
+* LED
+* LCD
 
 ---
 
@@ -110,15 +60,6 @@ Each project folder may include:
 * Debugging embedded systems
 
 ---
-
-## 🔮 Future Improvements
-
-* Add more autonomous robots
-* Improve documentation
-* Integrate AI-based decision making
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -128,6 +69,13 @@ If you'd like to improve something:
 1. Fork the repo
 2. Create a new branch
 3. Submit a pull request
+
+---
+## 🔮 Future Improvements
+if you want to contribute a please add something like the options shown below:
+* Add more autonomous robots
+* Improve documentation
+* Integrate AI-based decision making
 
 ---
 
